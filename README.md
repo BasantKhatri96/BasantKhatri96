@@ -9,6 +9,6 @@
 - https://basantkhatri96.github.io/Fitness-Website/
 - https://basantkhatri96.github.io/Photo-Gallery/
 -Wordpress e-commerce website:
-            https://digishop.world/
+-https://digishop.world/
 
 
