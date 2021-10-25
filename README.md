@@ -8,6 +8,7 @@
 - https://basantkhatri96.github.io/Glassy-look-Design-for-Desktop/
 - https://basantkhatri96.github.io/Fitness-Website/
 - https://basantkhatri96.github.io/Photo-Gallery/
+- https://basantkhatri96.github.io/instant-restaurant/
 
 -Wordpress e-commerce website:
 -https://digishop.world/
